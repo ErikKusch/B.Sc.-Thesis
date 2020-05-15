@@ -12,9 +12,12 @@
 
 # ...even if they are in subdirectories
 !Thesis_BSc_EKGit.pdf
+!*.R
 !*/
 !*/*/
 !*/*/*/
+5 - Thesis_Final/*
+
 
 
 .Rproj.user
